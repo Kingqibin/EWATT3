@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/kingqi/work/yolo_test/data/ImageSets/Main/antenna_train.txt
+valid  = /home/kingqi/work/yolo_test/data/ImageSets/Main/antenna_val.txt
+names = /home/kingqi/work/yolo_test/antenna.names
+backup = /home/kingqi/work/yolo_test/backup
+
